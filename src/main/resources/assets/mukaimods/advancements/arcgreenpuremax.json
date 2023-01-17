@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:puremax"
+    }, 
+    "title": {
+      "translate": "advancements.puremax.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.puremax.root.description"
+    }
+  },
+  "parent": "mukaimods:advancements", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:puremax"
+          }
+        ]
+      }
+    }
+  }
+}
+

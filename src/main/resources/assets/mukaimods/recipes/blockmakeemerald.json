@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "mukaimods:music_emerald_block",
+	"ingredients": [{
+		"item": "mukaimods:music_emerald_block"
+	}],
+	"result": {
+		"item": "mukaimods:music_emerald",
+		"count": 9
+	}
+
+}

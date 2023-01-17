@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X#X",
+		"BAB",
+		"XBX"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:ghast_tear"
+		},
+		"X": {
+			"item": "mukaimods:music_emerald"
+
+		},
+		"A": {
+			"item": "mukaimods:Blockmakemusic"
+
+		},
+		"B": {
+		
+				"item": "minecraft:diamond"
+				
+		}
+	},
+	"result": {
+		"item": "mukaimods:block_make_pstmusic"
+
+	}
+}

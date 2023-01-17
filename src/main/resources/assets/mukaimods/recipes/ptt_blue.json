@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:far"
+    },
+    "X": {
+      "item": "mukaimods:ptt_green"
+    }
+  },
+  "result": {
+    "item": "mukaimods:ptt_blue"
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "MODID": "mukaimods",
+  "name": "mukai",
+  "description": "Hello£¬World",
+  "version": "${version}",
+  "MCversion": "1.12.2",
+  "Url": "https://www.mcmod.cn/class/3335.html",
+  "updateUrl": "",
+  "authorList": ["Mukai", "AoXiang_Soar"],
+  "credits": "TQL",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

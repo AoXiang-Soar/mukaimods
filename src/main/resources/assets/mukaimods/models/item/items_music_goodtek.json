@@ -1,0 +1,8 @@
+
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "mukaimods:item/items_music_goodtek"
+    }
+}
+

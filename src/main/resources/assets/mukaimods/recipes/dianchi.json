@@ -1,0 +1,25 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"AAA",
+		"X#X"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:redstone_block"
+		},
+		"X": {
+			"item": "mukaimods:sanre"
+
+		},
+		"A": {
+			"type": "forge:ore_dict", "ore": "plateIron"
+}
+		},
+
+		"result": {
+			"item": "mukaimods:dianchi",
+			"count": 8
+		
+	}
+}

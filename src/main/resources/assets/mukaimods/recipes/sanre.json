@@ -1,0 +1,19 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"# #",
+		" # ",
+		"# #"
+	],
+	"key": {
+		"#": {
+			"type": "forge:ore_dict", "ore": "plateIron"
+			}
+		},
+
+		"result": {
+			"item": "mukaimods:sanre",
+			"count": 3
+		
+	}
+}

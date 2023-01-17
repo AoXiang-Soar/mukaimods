@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "music_iron_block",
+	"ingredients": [{
+		"item": "music_iron_block"
+	}],
+	"result": {
+		"item": "mukaimods:items_music_iron",
+		"count": 9
+	}
+
+}

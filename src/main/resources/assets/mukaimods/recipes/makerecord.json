@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:blackball"
+    },
+    "X": {
+      "item": "mukaimods:music_emerald"
+    }
+  },
+  "result": {
+    "item": "mukaimods:songs"
+
+  } 
+}

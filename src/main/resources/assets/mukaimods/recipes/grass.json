@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mukaimod:blocklost",
+  "ingredients": [
+    {
+      "item": "mukaimods:blocklost",	
+      "count": 9
+    }
+    ],
+  "result":{
+    "item": "mukaimods:grass"
+  }
+  
+}

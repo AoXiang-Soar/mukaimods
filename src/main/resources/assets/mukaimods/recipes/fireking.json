@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#C#",
+		"XBX",
+		"X#X"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:blaze_rod"
+		},
+		"X": {
+			"item": "minecraft:nether_star"
+
+		},
+	
+		"B": {
+			"item": "mukaimods:items_music_sword"
+
+		},
+		"C": {
+			"item": "minecraft:totem_of_undying"
+}
+		},
+		"result": {
+			"item": "mukaimods:firekingsword"
+		
+	}
+}

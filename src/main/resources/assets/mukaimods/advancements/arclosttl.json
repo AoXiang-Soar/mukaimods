@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:track_lost"
+    }, 
+    "title": {
+      "translate": "advancements.losttl.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.losttl.root.description"
+    }
+  },
+  "parent": "mukaimods:arcgreenlost", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:track_lost"
+          }
+        ]
+      }
+    }
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "mukaimods:ptt_gay1"
+        }, 
+        "title": {
+            "translate": "advancements.gay1.root.title"
+        }, 
+        "description": {
+            "translate": "advancements.gay1.root.description"
+        }   
+    }, 
+    "parent": "mukaimods:arcpttgay", 
+    "criteria": {
+        "crafting_ table": {
+            "trigger": "minecraft:inventory_changed", 
+            "conditions": {
+                "items": [
+                    {
+                        "item": "mukaimods:ptt_gay1"
+                    }
+                ]
+            }
+        }
+    }
+}

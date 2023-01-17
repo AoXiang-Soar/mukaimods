@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " X ",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:items_music_zuanshi"
+    },
+    "X": {
+      "item": "mukaimods:items_music_stick"
+    }
+  },
+  "result": {
+
+    "item": "mukaimods:items_music_pickaxe"
+
+  } 
+}

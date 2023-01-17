@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:pure"
+    },
+    "X": {
+      "item": "mukaimods:ptt_blue"
+    }
+  },
+  "result": {
+    "item": "mukaimods:ptt_gay"
+
+  } 
+}

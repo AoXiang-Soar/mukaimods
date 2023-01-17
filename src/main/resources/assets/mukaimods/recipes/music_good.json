@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X ",
+    "  X"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:music_iron_block"
+    },
+    "X": {
+      "item": "mukaimods:items_music_stick"
+    }
+  },
+  "result": {
+  
+    "item": "mukaimods:items_music_goodtek"
+
+  } 
+}

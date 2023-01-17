@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:icon"
+    }, 
+    "title": {
+      "translate": "advancements.green.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.green.root.description"
+    }, 
+    "show_toast": true, 
+    "announce_to_chat": true, 
+    "background": "mukaimods:advancements/arcbg.png"
+  },
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:icon"
+          }
+        ]
+      }
+    }
+  }
+}
+

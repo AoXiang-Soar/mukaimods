@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "X": {
+      "item": "mukaimods:grass"
+    }
+  },
+  "result": {
+    "item": "mukaimods:blocklost",
+			"count": 8
+
+  } 
+}

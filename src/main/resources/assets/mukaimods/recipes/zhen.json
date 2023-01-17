@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    " ##",
+    "X  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "type": "forge:ore_dict", "ore": "plateIron"
+    }
+  },
+  "result": {
+    "item": "mukaimods:zhen"
+
+  } 
+}

@@ -1,0 +1,53 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"BA#",
+		"CBC"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:piston"
+		},
+		"X": {
+			"item": "minecraft:noteblock"
+
+		},
+		"A": {
+			"item": "mukaimods:hexin"
+
+		},
+		"B": [{
+				"item": "minecraft:planks",
+				"data": 0
+			},
+			{
+				"item": "minecraft:planks",
+				"data": 1
+			},
+			{
+				"item": "minecraft:planks",
+				"data": 2
+			},
+			{
+				"item": "minecraft:planks",
+				"data": 3
+			},
+			{
+				"item": "minecraft:planks",
+				"data": 4
+			},
+			{
+				"item": "minecraft:planks",
+				"data": 5
+			}
+		],
+		"C": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"item": "mukaimods:Blockmakemusic"
+
+	}
+}

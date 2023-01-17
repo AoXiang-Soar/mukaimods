@@ -1,0 +1,32 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+		"XC#",
+		"ABA",
+		"A A"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:redstone_block"
+		},
+		"X": {
+			"item": "minecraft:stone_button"
+
+		},
+		"A": {
+			"type": "forge:ore_dict", "ore": "plateIron"
+
+		},
+		"B": {
+			"item": "mukaimods:shizhong"
+
+		},
+		"C": {
+			"type": "forge:ore_dict", "ore": "ingotIron"
+}
+		},
+		"result": {
+			"item": "mukaimods:danpianji"
+		
+	}
+}

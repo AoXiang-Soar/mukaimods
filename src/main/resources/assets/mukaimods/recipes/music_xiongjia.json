@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:items_music_zuanshi"
+    }
+  },
+  "result": {
+  
+    "item": "mukaimods:items_music_xiongjia"
+  }
+}

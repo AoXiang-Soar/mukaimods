@@ -1,0 +1,10 @@
+
+
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "mukaimods:block/blockmakemusica",
+        "front": "mukaimods:block/blockmakemusicc",
+        "side": "mukaimods:block/blockmakemusica"
+    }
+}

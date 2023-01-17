@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "mukaimods:ptt_star"
+        }, 
+        "title": {
+            "translate": "advancements.star.root.title"
+        }, 
+        "description": {
+            "translate": "advancements.star.root.description"
+        }
+    }, 
+    "parent": "mukaimods:arcpttred", 
+    "criteria": {
+        "crafting_ table": {
+            "trigger": "minecraft:inventory_changed", 
+            "conditions": {
+                "items": [
+                    {
+                        "item": "mukaimods:ptt_star"
+                    }
+                ]
+            }
+        }
+    }
+}

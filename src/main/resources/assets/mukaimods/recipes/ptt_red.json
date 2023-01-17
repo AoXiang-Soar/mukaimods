@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:full_recall"
+    },
+    "X": {
+      "item": "mukaimods:ptt_gay1"
+    }
+  },
+  "result": {
+    "item": "mukaimods:ptt_red"
+
+  }
+}

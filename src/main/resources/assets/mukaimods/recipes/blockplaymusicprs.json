@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X#X",
+		"BAB",
+		"XBX"
+	],
+	"key": {
+		"#": {
+			"item": "mukaimods:suipian"
+		},
+		"X": {
+			"item": "mukaimods:items_music_iron"
+
+		},
+		"A": {
+			"item": "mukaimods:block_make_pstmusic"
+
+		},
+		"B": {
+		
+				"item": "minecraft:emerald"
+				
+		}
+	},
+	"result": {
+		"item": "mukaimods:block_make_prsmusic"
+
+	}
+}

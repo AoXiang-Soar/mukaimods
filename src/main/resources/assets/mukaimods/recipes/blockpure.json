@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "X": {
+      "item": "mukaimods:pure"
+    }
+  },
+  "result": {
+    "item": "mukaimods:blockpure",
+			"count": 8
+
+  } 
+}

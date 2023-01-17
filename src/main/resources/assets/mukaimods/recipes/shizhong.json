@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#A#",
+		"XBX",
+		"#A#"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:redstone"
+		},
+		"X": {
+			"item": "minecraft:repeater"
+
+		},
+		"A": {
+			"item": "minecraft:comparator"
+
+		},
+		"B": {
+			"item": "minecraft:clock"
+
+		}
+		},
+		"result": {
+			"item": "mukaimods:shizhong"
+		
+	}
+}

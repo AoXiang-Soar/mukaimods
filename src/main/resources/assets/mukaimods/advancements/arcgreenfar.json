@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:far"
+    }, 
+    "title": {
+      "translate": "advancements.far.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.far.root.description"
+    }
+  },
+  "parent": "mukaimods:advancements", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:far"
+          }
+        ]
+      }
+    }
+  }
+}
+

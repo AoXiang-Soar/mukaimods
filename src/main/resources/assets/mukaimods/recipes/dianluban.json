@@ -1,0 +1,28 @@
+{
+	"type": "forge:ore_shaped",
+	"pattern": [
+	    "   ",
+		"X#X",
+		"ABA"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:redstone"
+		},
+		"X": {
+			"type": "forge:ore_dict", "ore": "nuggetGold"
+
+		},
+		"A": {
+			"type": "forge:ore_dict", "ore": "plateIron"
+
+		},
+		"B": {
+			"type": "forge:ore_dict", "ore": "slimeball"
+}
+		},
+		"result": {
+			"item": "mukaimods:dianluban"
+		
+	}
+}

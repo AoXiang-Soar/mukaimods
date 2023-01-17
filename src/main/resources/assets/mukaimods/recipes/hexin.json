@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"#A#",
+		"XBX",
+		"CDC"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:redstone_block"
+		},
+		"X": {
+			"item": "mukaimods:sanre"
+		},
+		"A": {
+			"item": "mukaimods:dianchi"
+		},
+		"B": {
+			"item": "mukaimods:danpianji"
+		},
+		"C": {
+			"item": "mukaimods:dianron"
+		},
+		"D": {
+			"item": "mukaimods:dianluban"
+          }
+		},
+		"result": {
+			"item": "mukaimods:hexin"
+		
+	}
+}

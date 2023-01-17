@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "mukaimods:block/block_make_pstmusic1",
+        "side": "mukaimods:block/block_make_pstmusic"
+    }
+} 

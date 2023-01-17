@@ -1,0 +1,13 @@
+
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "mukaimods:items_music_iron",
+	"ingredients": [{
+		"item": "mukaimods:items_music_iron"
+	}],
+	"result": {
+		"item": "mukaimods:items_music_littleiron",
+		"count": 9
+	}
+
+}

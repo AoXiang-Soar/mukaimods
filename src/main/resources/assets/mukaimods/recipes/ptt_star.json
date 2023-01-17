@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mukaimods:pm"
+    },
+    "X": {
+      "item": "mukaimods:ptt_red"
+    }
+  },
+  "result": {
+    "item": "mukaimods:ptt_star"
+
+  }
+}

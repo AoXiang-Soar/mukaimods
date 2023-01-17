@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X#X",
+		"BAB",
+		"XBX"
+	],
+	"key": {
+		"#": {
+			"item": "mukaimods:yitai"
+		},
+		"X": {
+			"item": "mukaimods:items_music_zuanshi"
+
+		},
+		"A": {
+			"item": "mukaimods:block_make_prsmusic"
+
+		},
+		"B": {
+		
+				"item": "minecraft:purpur_block"
+				
+		}
+	},
+	"result": {
+		"item": "mukaimods:block_make_ftrmusic"
+
+	}
+}

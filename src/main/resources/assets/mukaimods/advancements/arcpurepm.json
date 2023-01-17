@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:pm"
+    }, 
+    "title": {
+      "translate": "advancements.pm.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.pm.root.description"
+    }
+  },
+  "parent": "mukaimods:arcgreenpure", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:pm"
+          }
+        ]
+      }
+    }
+  }
+}
+

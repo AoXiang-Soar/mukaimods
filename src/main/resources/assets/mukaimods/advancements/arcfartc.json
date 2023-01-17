@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:track_complete"
+    }, 
+    "title": {
+      "translate": "advancements.fartc.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.fartc.root.description"
+    }
+  },
+  "parent": "mukaimods:arcgreenfar", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:track_complete"
+          }
+        ]
+      }
+    }
+  }
+}
+

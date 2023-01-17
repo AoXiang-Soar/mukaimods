@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:ptt_blue"
+    }, 
+    "title": {
+      "translate": "advancements.blue.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.blue.root.description"
+    }
+  },
+  "parent": "mukaimods:advancements", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:ptt_blue"
+          }
+        ]
+      }
+    }
+  }
+}
+

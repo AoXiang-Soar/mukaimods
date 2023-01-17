@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mukaimods:full_recall"
+    }, 
+    "title": {
+      "translate": "advancements.fr.root.title"
+    }, 
+    "description": {
+      "translate": "advancements.fr.root.description"
+    }
+  },
+  "parent": "mukaimods:arcgreenpuremax", 
+  "criteria": {
+    "crafting_ table": {
+      "trigger": "minecraft:inventory_changed", 
+      "conditions": {
+        "items": [
+          {
+            "item": "mukaimods:full_recall"
+          }
+        ]
+      }
+    }
+  }
+}
+
